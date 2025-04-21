@@ -3,3 +3,4 @@ logs/*.log
 !logs/special.log
 *.png
 *.jpg
+*.txt
